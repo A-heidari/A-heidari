@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Masiha - AI/ML Learner" width="100%">
 </p>
 
-# Hi, I'm Masiha 👋
+# Hi, I'm Ali 👋
 
 I'm learning **AI / Machine Learning from the ground up.**
 

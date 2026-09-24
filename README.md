@@ -23,9 +23,3 @@ Started my AI/ML journey.
   <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
 </p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Masiha-prg&theme=dark&hide_border=true" />
-</p>

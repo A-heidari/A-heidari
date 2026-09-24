@@ -1,4 +1,3 @@
-
 # Hi, I'm Alireza 👋
 
 Undergraduate student in International Economy and Trade at Zhengzhou University, building a foundation in machine learning and applied AI.
@@ -8,7 +7,7 @@ Applied machine learning · Time-series modeling · Optimization · Deep learnin
 
 ## Projects
 - **[Fraud Detection](https://github.com/A-heidari/fraud-detection)**: classification on a highly imbalanced dataset of 284,807 transactions. Compared Logistic Regression and SVM variants; the best model (polynomial SVM) reached F1 = 0.842. Focus: precision/recall trade-offs.
-- **[Customer Churn Prediction](LINK)**: end-to-end pipeline on the Telco dataset using Scikit-learn Pipelines and tree-based models.
+- **[Customer Churn Prediction](https://github.com/A-heidari/Customer-churn-prediction)**: end-to-end pipeline on the Telco dataset using Scikit-learn Pipelines and tree-based models.
 
 ## Currently learning
 Deep learning, neural networks, PyTorch

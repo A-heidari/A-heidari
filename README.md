@@ -2,18 +2,22 @@
   <img src="./banner.png" alt="Masiha - AI/ML Learner" width="100%">
 </p>
 
-# Hi, I'm Ali 👋
+# Hi, I'm Alireza 👋
 
-I'm learning **AI / Machine Learning from the ground up.**
+Undergraduate student in International Economy and Trade at Zhengzhou University, building a foundation in machine learning and applied AI.
 
- Mathematics & Linear Algebra  
- Machine Learning  
- Python  
- Building projects along the way
+## Interests
+Applied machine learning · Time-series modeling · Optimization · Deep learning
 
-Started my AI/ML journey. 
+## Projects
+- **[Fraud Detection](https://github.com/A-heidari/fraud-detection)**: classification on a highly imbalanced dataset of 284,807 transactions. Compared Logistic Regression and SVM variants; the best model (polynomial SVM) reached F1 = 0.842. Focus: precision/recall trade-offs.
+- **[Customer Churn Prediction](LINK)**: end-to-end pipeline on the Telco dataset using Scikit-learn Pipelines and tree-based models.
 
-> Learn. Build. Repeat. 🚀
+## Currently learning
+Deep learning, neural networks, PyTorch
+
+## Contact
+alireza.heidari.stdt@gmail.com
 
 ## 🛠️ Tech Stack
 

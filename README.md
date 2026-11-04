@@ -50,4 +50,4 @@ A machine learning project for predicting customer churn using the Telco Custome
 ## Connect With Me
 
 - **GitHub:** [A-heidari](https://github.com/A-heidari)
-- **LinkedIn:** [Alireza Heid
+- **LinkedIn:** [Alireza Heidari](https://www.linkedin.com/in/alireza-heidari-03086b343/)

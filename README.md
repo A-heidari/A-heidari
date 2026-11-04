@@ -1,37 +1,53 @@
-# Hi, I'm Alireza 👋
+# Hi, I'm Alireza Heidari 👋
 
-Undergraduate student in **International Trade & Economics at Zhengzhou University**, focused on building practical skills in **Machine Learning and AI Engineering**.
+I'm an undergraduate student at **Zhengzhou University**, studying **International Economy and Trade**, and currently building my skills in Machine Learning and AI Engineering.
 
-I’m developing my understanding of machine learning through mathematics, hands-on implementation, model evaluation, and improving real-world ML projects.
+My focus is on understanding machine learning from both theoretical and practical perspectives — including data preprocessing, feature engineering, model development, evaluation, and model selection.
 
-## Interests
-
-Applied Machine Learning · Model Evaluation · Feature Engineering · Model Optimization · Deep Learning
-
-## Projects
-
-- **[Credit Card Fraud Detection](https://github.com/A-heidari/fraud-detection)**  
-  Built classification models for a highly imbalanced dataset of 284,807 transactions. Compared Logistic Regression and multiple SVM approaches. Achieved an F1-score of **0.843** with Polynomial SVM.
-
-- **[Customer Churn Prediction](https://github.com/A-heidari/Customer-churn-prediction)**  
-  Developed a customer churn classification pipeline using Scikit-learn. Implemented preprocessing with ColumnTransformer and Pipeline, and performed hyperparameter tuning with GridSearchCV and 5-fold cross-validation. The selected Decision Tree achieved **77.99% ROC-AUC** on the test set.
+I'm currently working on practical ML projects and looking for opportunities to grow through real-world AI/ML work.
 
 ## Technical Skills
 
-**Programming:** Python
+- **Programming:** Python, C
+- **Data Analysis:** NumPy, Pandas, Matplotlib, EDA
+- **Machine Learning:** Scikit-learn, Logistic Regression, SVM, Decision Trees
+- **ML Workflows:** Feature Engineering, Pipelines, ColumnTransformer, Cross-Validation, GridSearchCV
+- **Model Evaluation:** Precision, Recall, F1-score, ROC-AUC, PR-AUC, Confusion Matrix
+- **Tools:** Git, GitHub, Linux, VS Code
 
-**Data Analysis:** NumPy, Pandas, Matplotlib
+## Featured Projects
 
-**Machine Learning:** Scikit-learn, Logistic Regression, SVM, Decision Trees, Random Forest, Ensemble Learning
+### 1. Credit Card Fraud Detection
 
-**ML Workflows:** Data Preprocessing, Feature Engineering, Pipelines, Cross-Validation, GridSearchCV, Model Evaluation
+A classification project focused on detecting fraudulent transactions in a highly imbalanced dataset.
 
-**Tools:** Git, GitHub, VS Code
+- Dataset: 284,807 transactions, with a fraud rate of 0.1727%.
+- Implemented Logistic Regression, Linear SVM, Polynomial SVM, and RBF SVM.
+- Applied feature engineering, StandardScaler, Pipeline, and class-weight balancing.
+- **Best F1-score: 0.7087** using Polynomial SVM.
+- Explored Precision–Recall trade-offs and validation-based decision threshold selection.
+
+[View Repository](https://github.com/A-heidari/fraud-detection)
+
+### 2. Customer Churn Prediction
+
+A machine learning project for predicting customer churn using the Telco Customer Churn dataset.
+
+- Performed data cleaning, exploratory data analysis, and feature engineering.
+- Built preprocessing workflows using Pipeline, ColumnTransformer, imputation, and OneHotEncoder.
+- Used stratified splitting and 5-fold GridSearchCV for Decision Tree model selection.
+- **Test ROC-AUC: 0.7799**
+- **Test F1-score: 0.5585**
+
+[View Repository](https://github.com/A-heidari/Customer-churn-prediction)
 
 ## Currently Learning
 
-Deep Learning · Neural Networks · PyTorch
+- Deep Learning
+- Neural Networks
+- PyTorch
 
-## Contact
+## Connect With Me
 
-📧 [alireza.heidari.stdt@gmail.com](mailto:alireza.heidari.stdt@gmail.com)
+- **GitHub:** [A-heidari](https://github.com/A-heidari)
+- **LinkedIn:** [Alireza Heid

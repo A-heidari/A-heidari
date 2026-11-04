@@ -1,25 +1,37 @@
 # Hi, I'm Alireza 👋
 
-Undergraduate student in International Economy and Trade at Zhengzhou University, building a foundation in machine learning and applied AI.
+Undergraduate student in **International Trade & Economics at Zhengzhou University**, focused on building practical skills in **Machine Learning and AI Engineering**.
+
+I’m developing my understanding of machine learning through mathematics, hands-on implementation, model evaluation, and improving real-world ML projects.
 
 ## Interests
-Applied machine learning · Time-series modeling · Optimization · Deep learning
+
+Applied Machine Learning · Model Evaluation · Feature Engineering · Model Optimization · Deep Learning
 
 ## Projects
-- **[Fraud Detection](https://github.com/A-heidari/fraud-detection)**: classification on a highly imbalanced dataset of 284,807 transactions. Compared Logistic Regression and SVM variants; the best model (polynomial SVM) reached F1 = 0.842. Focus: precision/recall trade-offs.
-- **[Customer Churn Prediction](https://github.com/A-heidari/Customer-churn-prediction)**: end-to-end pipeline on the Telco dataset using Scikit-learn Pipelines and tree-based models.
 
-## Currently learning
-Deep learning, neural networks, PyTorch
+- **[Credit Card Fraud Detection](https://github.com/A-heidari/fraud-detection)**  
+  Built classification models for a highly imbalanced dataset of 284,807 transactions. Compared Logistic Regression and multiple SVM approaches. Achieved an F1-score of **0.843** with Polynomial SVM.
+
+- **[Customer Churn Prediction](https://github.com/A-heidari/Customer-churn-prediction)**  
+  Developed a customer churn classification pipeline using Scikit-learn. Implemented preprocessing with ColumnTransformer and Pipeline, and performed hyperparameter tuning with GridSearchCV and 5-fold cross-validation. The selected Decision Tree achieved **77.99% ROC-AUC** on the test set.
+
+## Technical Skills
+
+**Programming:** Python
+
+**Data Analysis:** NumPy, Pandas, Matplotlib
+
+**Machine Learning:** Scikit-learn, Logistic Regression, SVM, Decision Trees, Random Forest, Ensemble Learning
+
+**ML Workflows:** Data Preprocessing, Feature Engineering, Pipelines, Cross-Validation, GridSearchCV, Model Evaluation
+
+**Tools:** Git, GitHub, VS Code
+
+## Currently Learning
+
+Deep Learning · Neural Networks · PyTorch
 
 ## Contact
-alireza.heidari.stdt@gmail.com
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github" />
-  <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
-</p>
+📧 [alireza.heidari.stdt@gmail.com](mailto:alireza.heidari.stdt@gmail.com)
